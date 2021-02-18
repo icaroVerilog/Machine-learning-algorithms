@@ -2,7 +2,6 @@
 # Machine learning algorithms
 
 This repository was created to group some machine learning algorithms made by me
-<<<<<<< HEAD
 
 ## Technologies 
 
@@ -15,5 +14,4 @@ This repository was created to group some machine learning algorithms made by me
 - pytorch is a python framework that provides tools for machine learning and deep learning
 
 	
-=======
->>>>>>> 1a7224cfaf0c8e73c9bb8f7e13f23f293d9647a0
+
